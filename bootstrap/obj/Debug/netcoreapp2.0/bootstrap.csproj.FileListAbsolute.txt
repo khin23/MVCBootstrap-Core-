@@ -1,0 +1,11 @@
+C:\Users\khin\source\repos\bootstrap\bootstrap\bin\Debug\netcoreapp2.0\bootstrap.deps.json
+C:\Users\khin\source\repos\bootstrap\bootstrap\bin\Debug\netcoreapp2.0\bootstrap.runtimeconfig.json
+C:\Users\khin\source\repos\bootstrap\bootstrap\bin\Debug\netcoreapp2.0\bootstrap.runtimeconfig.dev.json
+C:\Users\khin\source\repos\bootstrap\bootstrap\bin\Debug\netcoreapp2.0\bootstrap.dll
+C:\Users\khin\source\repos\bootstrap\bootstrap\bin\Debug\netcoreapp2.0\bootstrap.pdb
+C:\Users\khin\source\repos\bootstrap\bootstrap\obj\Debug\netcoreapp2.0\bootstrap.csprojResolveAssemblyReference.cache
+C:\Users\khin\source\repos\bootstrap\bootstrap\obj\Debug\netcoreapp2.0\bootstrap.csproj.CoreCompileInputs.cache
+C:\Users\khin\source\repos\bootstrap\bootstrap\obj\Debug\netcoreapp2.0\bootstrap.AssemblyInfoInputs.cache
+C:\Users\khin\source\repos\bootstrap\bootstrap\obj\Debug\netcoreapp2.0\bootstrap.AssemblyInfo.cs
+C:\Users\khin\source\repos\bootstrap\bootstrap\obj\Debug\netcoreapp2.0\bootstrap.dll
+C:\Users\khin\source\repos\bootstrap\bootstrap\obj\Debug\netcoreapp2.0\bootstrap.pdb
